@@ -9,7 +9,7 @@ from azureml.core import Workspace
 import os
 
 ws=Workspace.create(name='azureml-sdk-ws',
-                    subscription_id='f1a89af0-2ecd-4df4-be46-fc74008d9666',
+                    subscription_id='****************************',
                     resource_group='dp100-train',
                     create_resource_group=True,
                     location='eastus2'
