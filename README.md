@@ -20,3 +20,6 @@ Source:https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-mac
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Step by Step process.
 1. Register for 30 day free trail and create an account on azure.portal.com
+2. Execute code step1_Create ML workspace.py
+3. Register datastore.
+4. To register datastore needs a storage account with data avaiable in container.
