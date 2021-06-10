@@ -23,3 +23,5 @@ Source:https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-mac
 2. Execute code step1_Create ML workspace.py
 3. Register datastore.
 4. To register datastore needs a storage account with data avaiable in container.
+5. Execute Code step2_Register Datastore
+6. To register a dataset execode code step3_Register Datastset
