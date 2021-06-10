@@ -1,2 +1,2 @@
-# DP100-
-Machine Learning using Azure 
+# DP100: Machine Learning using Azure 
+
