@@ -5,7 +5,10 @@
 #### Sign up with outlook id
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### This repository presents step by step process to work on Microsoft Azure using Python SDK.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Azure ML Workspace Architecture and Key components
 
 ![image](https://user-images.githubusercontent.com/56711596/121516299-aebcec80-ca0b-11eb-963b-63450e93e8d5.png)
+Source:https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-machine-learning-architecture
 
 
