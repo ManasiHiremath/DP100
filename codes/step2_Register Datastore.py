@@ -14,4 +14,4 @@ ds= Datastore.register_azure_blob_container(workspace=ws,
                                             datastore_name='azure_sdk_datastore',
                                             container_name="azuremlstacc001", 
                                             account_name="azuresdkblob",
-                                            account_key="VmMnM20U1JuiPd/yDdI5y2ASUt7Lgie+Rllqt9qy3QZeJ4cGZ06b+BrXQE3XvHwNhxwROxbzoY7ROlMN1kMPDQ==")
+                                            account_key="****************************************************************")
