@@ -15,3 +15,8 @@ Source:https://docs.microsoft.com/en-us/azure/machine-learning/concept-azure-mac
 ### Getting Started
 1. Install azureml-sdk package to connect to azure from local machine.
 2. From Anaconda promt install azureml-sdk using : pip install azureml-sdk
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Step by Step process.
+1. Register for 30 day free trail and create an account on azure.portal.com
