@@ -9,7 +9,7 @@ from azureml.core import Workspace, Datastore, Dataset
 import os
 
 #provide workspace details.
-ws= Workspace.from_config(path="C:\\Users\\rajhi\\Manasi\\dp100\\config")
+ws= Workspace.from_config(path="*****")
 
 ds_store=Datastore.get(workspace=ws, 
                        datastore_name='azure_ml_sdk_datastore')
